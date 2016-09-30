@@ -19,7 +19,7 @@ class BeerSong{
 			2	bottles	of	beer	on	the	wall,	2	bottles	of	beer\n
 			take	one	down,	pass	it	around,	1	bottle	of	beer	on	the	wall.\n
 			1	bottle	of	beer	on	the	wall,	1	bottle	of	beer\n
-			take	one	down,	pass	it	around,	no	more	bottles	of	beer	on	the	wall."
+			take	one	down,	pass	it	around,	no	more	bottles	of	beer	on	the	wall.";
 		
 	}
 	
