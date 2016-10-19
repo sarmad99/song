@@ -210,9 +210,6 @@ Take one down and pass it around, no more bottles of beer on the wall.<br />
 ";
 		
 	}
-	
-	
-	
 }
 
 
